@@ -41,6 +41,7 @@
 ---
 
 ## 🎉 News
+- 📝 `2026.05.07`: Our new paper **Every Step Counts: Step-Level Credit Assignment for Tool-Integrated Text-to-SQL** is available on [arXiv](https://arxiv.org/abs/2605.04719), introducing **FineStep** for fine-grained step-level credit assignment in tool-integrated Text-to-SQL.
 - 🚀 `2025.11.27`: We are excited to release **Agentar-Scale-SQL-Generation-32B** on [Hugging Face](https://huggingface.co/antgroup/Agentar-Scale-SQL-Generation-32B) and [ModelScope](https://modelscope.cn/models/AntGroup/Agentar-Scale-SQL-Generation-32B)! Simultaneously, we have open-sourced the code for the **Light Schema Engine** and the **Offline Data Preprocessing Pipeline**!
 - 🎁 `2025.09.30`: Our paper is available on [arXiv](https://arxiv.org/abs/2509.24403).
 - 🏆 `2025.09.25`: We are proud to announce that we have achieved **#1 Rank** on the official [BIRD leaderboard](https://bird-bench.github.io/) with **81.67%** execution accuracy!
