@@ -4,7 +4,7 @@ langchain==0.3.27
 langchain_core==0.3.72
 langchain_openai==0.3.28
 langfuse==3.2.1
-langgraph==0.6.1
+langgraph==1.0.10rc1
 pandas==2.3.1
 pydantic==2.11.7
 python-dotenv==1.1.1
